@@ -10,7 +10,7 @@ Astro AWS Amplify is an Astro adapter for deploying server-side Astro sites on A
 
 ## Installation
 
-```sh
+```sh 
 # Using NPM
 npm install astro-aws-amplify
 # Using Yarn
